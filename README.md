@@ -70,7 +70,9 @@ endmodule
 **TIMING DIAGRAM**
 
 
-![output 8](https://github.com/user-attachments/assets/18bfd0c4-5965-4c3b-88d4-1ddf9bbefef0)
+
+![image](https://github.com/user-attachments/assets/dba6051c-4cdf-4335-bb23-efdadaa0e64b)
+
 
 
 **RESULT**
